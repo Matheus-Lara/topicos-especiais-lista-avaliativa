@@ -9,7 +9,7 @@ Explicação da estratégia:
         verde: na posição correta
 
 Detalhamento das estruturas usadas: 
-    utilizado a estrutura Lista para  controlaras letras invalidas, na posição correta e incorreta
+    utilizado a estrutura Lista para controlar as letras invalidas, na posição correta e incorreta
     utilizado uma tupla onde cada elemento é uma letra da palavra sorteada
     utilizado um set para armazenar as letras que já foram utilizadas
 """
